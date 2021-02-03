@@ -1,0 +1,6 @@
+name: TarvosPublicJavaAPI
+version: ${project.version}
+main: me.evilterabite.tarvospublicjavaapi.TarvosPublicJavaAPI
+api-version: 1.16
+authors: [ evilterabite ]
+description: Tarvos Java API
